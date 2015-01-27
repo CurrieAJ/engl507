@@ -10,7 +10,7 @@
 8. Enter: git init engl507test (create directory)
 9. Enter: git cd engl507test (create directory)
 10. Enter: touch index.md (create file)
-11. Enter: touch index.md (open file)
+11. Enter: open index.md (open file)
 12. In the file, write a few words using the Markdown syntax
 13. Save your file: ctrl + S
 14. In the command line, enter: git remote add origin http://github.com/handle/repo.git
