@@ -2,13 +2,15 @@
 
 ## 27 January 2014: Thought Piece
 
-To challenge and highlight the effects urbanization has had on the environment, Eden Robinson's *Monkey Beach* (2001) indicates the significance of ecological insight as well as the importance of independent sustainability in rural settings; by familiarizing herself with her ecological surroundings, the protagonist forms transcendental geographical bonds as well as a sense of place through her environmental interactions. However, with the emergence of urbanization in traditionally rural areas, Robinson subtly expresses the exploitation of plant and wildlife habitats for personal and corporative gain. How, then, does Robinson's novel become an eco-critical analysis of Haisla agricultural tradition and Eurocentric ecological manipulation?
+To challenge and highlight the effects urbanization has had on the environment, Eden Robinson's *Monkey Beach* (2000) indicates the significance of ecological insight as well as the importance of independent sustainability in rural settings; by familiarizing herself with her ecological surroundings, the protagonist forms transcendental geographical bonds as well as a sense of place through her environmental interactions. However, with the emergence of urbanization in traditionally rural areas, Robinson subtly expresses the exploitation of plant and wildlife habitats for personal and corporative gain. How, then, does Robinson's novel become an eco-critical analysis of Haisla agricultural tradition and Eurocentric ecological manipulation?
 
 Deviating from traditional human coding, new media and computation could limit systematic and human errors, providing accurate quantifiable readings of environment-related instances within the text. In addition, utilizing a computational method may produce larger key term, formulaic sequence, and comparative ratio yields, and I believe that computation will not only apply to this research question specifically but also to the larger questions surrounding spatial awareness as historical, ecological, and cultural insight.
 
 To produce these results, I would like to employ computer-aided text analysis to draw out these key terms and quantify their recurrence in the text. During the initial transcribing of the novel as a text file, active markdown would allow the tagging and searching of key terms specific to plants, animals, cultural sustainability, and destroyed ecosystems. By applying semantic occurrence and algorithmic equations, quantifications of particular environmental instances, related character interactions, and term context could define, for example, the interaction ratio between the Haisla, the settlers, and place.
 
 In selecting this method, I hope quantifying the recurrence of key terms, people's interactions with place, and eco-critical implications will help me explore diverging place-based relationships between Haisla members and Eurocentric settlers.
+
+Robinson, Eden. *Monkey Beach.* 2000. Toronto: Vintage Canada Edition, 2001. Print.
 
 ## 20 January 2015: After Hermes?
 
