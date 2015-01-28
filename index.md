@@ -1,6 +1,56 @@
 # Miranda Marini's Log for English 507
 
-## 27 January 2014: Thought Piece
+## 27 January 2015: Thought Piece Review
+
+### Bassam's Thought Piece
+
+**Research:** a quantified comparison of Walker's illustrations in Thackeray's *The Adventure of Philip* to Thackeray's other novels and Walker's other illustrations.
+
+**Points to Consider:**
+* How unique are Walker’s illustrations? Do they humanize ethnic minorities? Are these illustrations representative of the time? Are they radical images?
+* How do you intend to quantify the uniqueness of these comparisons?
+* Type ideas: clothing, posture, facial expressions, settings, etc.
+* Quantification ideas: context of the illustrations, ethnic individuals, clothing, social status, etc.
+* Do you intned to counteract the narrative of the text?
+* By comparing image and text, could you argue Walker and Thackeray’s stances on racial issues during this time period?
+* How are you going to organize the images? What types do you intend to use?
+* How can you limit your scope? Period? 
+* Could you quantify the levels of racism within the text and/or illustrations?
+
+It'll be very interesting to see what kinds research questions and arguments will emerge from your analyses!
+
+### Lindsey's Thought Piece
+
+**Research:** is Austen a representation of a social past or social future? Can class be proven to be static or modernist?
+
+**Points to Consider:**
+* Conceptualization of possible class and interpersonal relations
+* Project can build on other possible research questions: narrative style, character relations, racism (if any), class stratification, etc.
+* Could you make this project maliable for other projects? Could you trace the social past/future of all Austen’s novels then network each network together?
+* Do the characters go beyond their social circles?
+* Would you be able to focus on the protagonists specifically and secondary characters specifically? (For example: colour coding)
+* Does class make you morally sound?
+
+**Possible Readings:**
+"Graph Visualization Software for Networks of Characters in Plays" by Amerlia Carolina Sparavigna and Roberto Marazzato
+
+I think this project could become a point of reference for future Austen scholars!
+
+### Alyssa's Thought Piece
+
+**Research:** does Blake play into the language present in newspapers surrounding tigers/tygers? Does he challenge it?
+
+**Points to Consider:**
+* Could you argue the text as a piece on animal activism? Was there a particular intent using the language? Does it satirize or parody the language?
+* What is your scope?
+** 5-10 years leading up to the publication of “The Tyger”
+** All London newspapers? Big news headlines?
+* To what extent do each article discuss tigers? How sensationalized are the tigers in the articles?
+* Could you look at tiger poems that are published in the articles in relation to Blake’s poem? What kind of language do they use?
+
+Using Wordle will be very visually appealing (if you wanted to integrate the images into your research paper) and will help you quantify key terms! Good choice!
+
+## 27 January 2015: Thought Piece
 
 To challenge and highlight the effects urbanization has had on the environment, Eden Robinson's *Monkey Beach* (2000) indicates the significance of ecological insight as well as the importance of independent sustainability in rural settings; by familiarizing herself with her ecological surroundings, the protagonist forms transcendental geographical bonds as well as a sense of place through her environmental interactions. However, with the emergence of urbanization in traditionally rural areas, Robinson subtly expresses the exploitation of plant and wildlife habitats for personal and corporative gain. How, then, does Robinson's novel become an eco-critical analysis of Haisla agricultural tradition and Eurocentric ecological manipulation?
 
