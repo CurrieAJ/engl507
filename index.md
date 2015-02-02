@@ -1,5 +1,28 @@
 # Miranda Marini's Log for English 507
 
+## 03 February 2015: Revised Thought Piece
+
+Darias-Beautell argues that “an ecocentric perspective on past and present forms of colonialism would push the traditional postcolonial anthropocentrism to the consideration of often-ignored biocentric issues” (89). For instance, Eden Robinson’s *Monkey Beach* (2000) indicates the significance of cultural, ecological insight as well as the importance of independent sustainability in rural settings; the novel also implicates the effects urbanized expansion has had on the environment. Emphasizing knowable geographical bonds, the protagonist defines her own sense of place through her environmental interactions while subtly expressing the degradation of plant and animal ecosystems. In her blending of aboriginal culture and Westernized ideology, how does Robinson articulate Haisla agricultural tradition in relation to hegemonic settler ideas of the non-human environment?
+
+By extracting the non-human appearances of plants and animals within the text, I will systematically record each occurrence in a spreadsheet, indicating the page number, the context of the term, the physical description of the term (if applicable), and the Haisla and European translations of the term (if applicable). As I reread the text and further extract key terminology, I hope to generate more research questions regarding human interactions with a non-human environment. I will primarily use the [Plants of Canada Database](http://www.plantsofcanada.info.gc.ca/"Plants of Canada Database"), [Native Plant Database](http://nativeplants.evergreen.ca/search/"Native Plant Database"), and the [BC Species and Ecosystems Explorer](http://a100.gov.bc.ca/pub/eswp/"BC Species and Ecosystems Explorer"). However, some limitations include unidentifiable Haisla terms and multi-specie analyses. Nonetheless, I hope to create an interactive, visual digital resource that explicitly argues the similarities and differences between Haisla and dominant understandings of ecology.
+
+**Possible Research Questions:**
+* To what extent does the text reveal women as having privileged knowledge of the natural environment?
+* Why include plants and animals in the text? Cultural understanding? Environmental awareness? Is it for the character's or the reader's benefit?
+* By implementing code-switching, does Robinson hope to resist a generic, Westernized categorization of her culture?
+
+**Bibliography**
+
+*BC Species and Ecosystems Explorer.* Ministry of Environment, n.d. Web. 31 Jan. 2015.
+
+Darias-Beautell, Eva. "Where Has 'Real' Nature Gone, Anyway?: Ecocriticism, Canadian Writing and the Lures of the Virtual." *Revista Canaria de Estudios Ingleses* 56(2008): 81-98. Web. 31 Jan. 2015.
+
+*Native Plant Database.* Evergreen, n.d. Web. 31 Jan. 2015.
+
+*Plants of Canada Database.* Canada, Sept. 2011. Web. 31 Jan. 2015.
+
+Robinson, Eden. *Monkey Beach.* 2000. Toronto: Vintage Canada Edition, 2001. Print.
+
 ## 27 January 2015: Thought Piece Review
 
 ### Bassam's Thought Piece
