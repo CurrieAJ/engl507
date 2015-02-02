@@ -16,6 +16,7 @@
 * Like using a browser without the browser
 
 Pulling stuff from Walt Whitman Archive
+
 1. Enter: cd ~/desktop (move to desktop)
 2. Enter: mkdir walt (create directory)
 3. Enter: cd walt (change directory)
@@ -23,6 +24,7 @@ Pulling stuff from Walt Whitman Archive
 5. In 'walt' file, it should have a file
 
 Pulling stuff from Gutenberg
+
 1. Wget makes an exception with Gutenberg
 2. Enter: cd ~/desktop (move to desktop)
 3. Enter: mkdir allthebooks (create directory)
@@ -31,6 +33,7 @@ Pulling stuff from Gutenberg
 6. To stop: ctrl C
 
 Internet Archive
+
 1. Go to archive.org/advancedsearch.php
 2. Query: creator: Jane Austen
 3. Fields to return: identifier
