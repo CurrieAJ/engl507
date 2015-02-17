@@ -1,6 +1,6 @@
 # Annotated Bibliography
 
-### Bisht, Raj Kishor, Garima Srivastava, H. S. Dhami. "Term Weighting Using Term Dependence." *International Journal of Computer Applications,* 3.11 (2010): 1-3. Web. 9 Feb. 2015.
+#### Bisht, Raj Kishor, Garima Srivastava, H. S. Dhami. "Term Weighting Using Term Dependence." *International Journal of Computer Applications,* 3.11 (2010): 1-3. Web. 9 Feb. 2015.
 
 Claims:
 * Bisht et al. argue that ‘term weighting’ is an integral part of term extraction; they indicate that the ‘weight’ determines the relevance of a term to the document and, therefore, to the outcome.
