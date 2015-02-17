@@ -90,3 +90,13 @@ Claims:
 Relevance:
 * If Robinson admits to “rework[ing] stuff and ma[king] certain parts up,” how can we determine what is and is not real within the text? While some plants are explained in Westernized terms, others are not. Does this mean that those that have not been adapted for non-Haisla readers are actually Robinson’s fictional constructions? Is there a way to determine this within the text?
 * Could a cognitive map of the plants be made based on Robinson’s geographical descriptions?
+
+#### Turner, Nancy J., Douglas Deur, and Dana Lepofsky. “Plant Management Systems of British Columbia’s First Peoples.” *BC Studies,* 179 (2013): 107-133. Web. 9 Feb. 2015.
+
+Claims:
+* According to anthropologists and archaeologists, First Nations have been categorized as hunter/gatherer communities because of their reliance on their immediate surroundings.
+* Turner et al. provide an overview of plant resource management strategies within British Columbian First Nations communities; for instance, practices to cultivate the continual growth of essential organisms.
+
+Relevance:
+* *Monkey Beach* perpetuates the idea of the hunter/gatherer society as both Mick and Ma-ma-oo participate in a culture of cultivation and ecological understanding of plant/animal resources.
+* It would be interesting to see how Ma-ma-oo participates in her own cultural management of plants: leaving tobacco for tree spirits, etc.
