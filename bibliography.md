@@ -12,7 +12,7 @@ Elson, David K., Nicholas Dames, and Kathleen R. McKeown. "Extracting Social Net
 
 Farca, Paula Anca. *Identity in Place: Contemporary Indigenous Fiction by Women Writers in the United States, Canada, Australia, and New Zealand.* New York: Peter Lang Publishing Inc., 2011. Print.
 
-Fiamengo, Janice. "Regionalism and Urbanism." *The Cambridge Companion to Canadian Literature.* Ed. Eva-Marie Kröller. New York: Cambridge University Press, 2004. 241-262. Print.
+Fiamengo, Janice. "Regionalism and Urbanism." *The Cambridge Companion to Canadian Literature.* Ed. Eva-Marie Kröller. New York: Cambridge University Press, 2004. 241-262. Web. 9 Feb. 2015.
 
 Fraser, David. “A ‘Practical’ Ethic for Animals.” *Journal of Agricultural and Environmental Ethics,* 25.5 (2012): 721-746. Web. 9 Feb. 2015.
 
