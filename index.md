@@ -1,5 +1,7 @@
 # Miranda Marini's Log for English 507
 
+Hi
+
 ## 03 February 2015: Revised Thought Piece
 
 Darias-Beautell argues that “an ecocentric perspective on past and present forms of colonialism would push the traditional postcolonial anthropocentrism to the consideration of often-ignored biocentric issues” (89). For instance, Eden Robinson’s *Monkey Beach* (2000) indicates the significance of cultural, ecological insight as well as the importance of independent sustainability in rural settings; the novel also implicates the effects urbanized expansion has had on the environment. Emphasizing knowable geographical bonds, the protagonist defines her own sense of place through her environmental interactions while subtly expressing the degradation of plant and animal ecosystems. In her blending of aboriginal culture and Westernized ideology, how does Robinson articulate Haisla agricultural tradition in relation to hegemonic settler ideas of the non-human environment?
