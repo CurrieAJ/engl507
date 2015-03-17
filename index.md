@@ -8,10 +8,12 @@
 It can be argued that Eden Robinson’s *Monkey Beach* acts as an ecological and environmental guide for a predominantly white readership; however, allowing a glimpse into Haisla understandings of plants and landscapes not only emphasizes the protagonist’s culturally geographic bond to plants but also an ecological awareness of plant degradation as a result of urbanized expansionism. From my preliminary analysis, the text’s domestic plant descriptions predominantly perpetuate a colonized plant ideology whereas Haisla tradition and language are equated with wild plant life. I also recognize that the majority of individuals who interact with either domestic or wild plants are primarily paternal family members to the protagonist. As I continue to analyze the data, I would like to argue that the text yields different plant-based descriptions, contextualization, and character interactions, which are dependent on the author’s colonial or Haisla language choices.
 
 **Discoverability:**
-While I do intend to share my work with the public, I hope to maintain its academic context. Perhaps, then, I will publish my work in venues such as - or similar to - *Scalar* and *Academia.edu*.
+While I do intend to share my work accessible to an academic audience, I hope to maintain its academic context. Perhaps, then, I will publish my work in venues such as - or similar to - *Scalar* and *Academia.edu*.
 
 **What is Discoverable?:**
-Even though I contradict my own words by posting it to GitHub, I don't intend to share the completed data spreadsheet with the public; I think my essay and any visualizations of my data should suffice (i.e. graphs, *RStudio* snapshots, etc).
+Even though I contradict my own words by posting it to GitHub, I don't intend to share the spreadsheet or any preliminary findings with the public. When I decide to make it publica, I think my essay and any data visualizations should suffice (i.e. graphs, *RStudio* snapshots, etc).
+
+**Note:** As I do not know how to make my data private, the incomplete spreadsheet will remain accessible for this course.
 
 ## 3 March 2015: Abstract
 
