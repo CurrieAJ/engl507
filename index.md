@@ -2,7 +2,7 @@
 
 ## 17 March 2015: Working Prototype
 
-[README](docs/MonkeyBeach.md.xlsx)
+[README](MonkeyBeach.md.xlsx)
 
 **Argument:** 
 It can be argued that Eden Robinson’s *Monkey Beach* acts as an ecological and environmental guide for a predominantly white readership; however, allowing a glimpse into Haisla understandings of plants and landscapes not only emphasizes the protagonist’s culturally geographic bond to plants but also an ecological awareness of plant degradation as a result of urbanized expansionism. From my preliminary analysis, the text’s domestic plant descriptions predominantly perpetuate a colonized plant ideology whereas Haisla tradition and language are equated with wild plant life. I also recognize that the majority of individuals who interact with either domestic or wild plants are primarily paternal family members to the protagonist. As I continue to analyze the data, I would like to argue that the text yields different plant-based descriptions, contextualization, and character interactions, which are dependent on the author’s colonial or Haisla language choices.
